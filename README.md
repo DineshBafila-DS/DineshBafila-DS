@@ -10,16 +10,11 @@ My areas of interest include Machine Learning, Deep Leaning, Data Science, Image
 
 I believe that my strongest attributes are intuitive thinking, the ability to understand from different perspectives and an independent self-drive to work on valuable and interesting things. I am a curious polymath seeking to apply ideas from one field to the other by working in unexplored intersections.
 
-<!--
-**DineshBafila-DS/DineshBafila-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Machine Learning, Deep Leaning,Programming, Data Science, Image Processing, Cloud (AWS) services and IoT. 
-- 📫 How to reach me:Linkedin (https://www.linkedin.com/in/dinesh-bafila-011885102) Email (dineshbafila.1111@gmail.com)
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/dinesh-bafila-011885102) [Email](dineshbafila.1111@gmail.com)
 - ⚡ Fun fact: 
 -->
